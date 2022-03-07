@@ -302,7 +302,7 @@ footer small.text-copy {
 
 @media(max-width:768px){
     .col-lg-4.col-md-6{
-        margin-bottom: 20px;
+        margin-bottom: 0px;
     }
 }
 
